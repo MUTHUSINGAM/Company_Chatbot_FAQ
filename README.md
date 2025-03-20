@@ -80,9 +80,12 @@ streamlit
 transformers  
 time  
 ```
+
+## Output Images 
+#Initiall part
 ![image](https://github.com/user-attachments/assets/ee25c11b-d300-4688-b901-190c1e8ec5d2)
 
-
+#Second part
 ![image](https://github.com/user-attachments/assets/4843d2a8-b10d-45ad-a216-86c74a82b835)
 
 
