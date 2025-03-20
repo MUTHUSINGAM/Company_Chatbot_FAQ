@@ -80,6 +80,7 @@ streamlit
 transformers  
 time  
 ```
+![image](https://github.com/user-attachments/assets/ee25c11b-d300-4688-b901-190c1e8ec5d2)
 
 ---
 
