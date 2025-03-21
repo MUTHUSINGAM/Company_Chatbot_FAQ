@@ -4,7 +4,8 @@
 🚀 **An AI-powered chatbot using Streamlit and Hugging Face Transformers to answer queries about Dverse Technologies.** 
 
 ---
-
+##  ** PUBLIC URL**
+    https://companychatbotsingam.streamlit.app/
 ## 📂 Project Structure
 ```
 📂 Dverse Technologies Chatbot  
